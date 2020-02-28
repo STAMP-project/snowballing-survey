@@ -1,0 +1,1 @@
+Bibtex file of [A Snowballing Literature Study on Test Amplification](https://hal.inria.fr/hal-02290742/file/1705.10692.pdf) (JSS, 2019, [doi:10.1016/j.jss.2019.110398](https://doi.org/10.1016/j.jss.2019.110398))
